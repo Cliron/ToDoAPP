@@ -1,0 +1,67 @@
+h1{
+
+	color: #7babf7;
+	font-family: Arial;
+}
+body{
+	text-align: center;
+	background-color: #e5f3ff;
+}
+
+  .wrapper {
+        text-align: center;
+        background-color: #f9fffd;
+        align-self: center;
+        border-radius: 5%;
+     
+    }
+    .wrapper ul {
+        display: inline-block;
+        margin: 5;
+        padding: 5;
+        /* For IE, the outcast */
+        zoom: 0;
+       /* *display: inline;*/
+    }
+    .wrapper li {
+        float: center;
+        padding: 15px 15px;
+       /* border: 1px solid black; */
+        border-radius: 5%;
+        background-color: #e5f3ff;
+        margin: 5px;
+        font-size: 20px;
+        font-family: Arial;
+        text-align: right;
+
+    }
+    li{
+    	list-style-type: circle;
+    	vertical-align: middle;
+    	padding: 5px;
+    }
+    button{
+    	border-radius: 20%;
+    	padding: 5px;
+    	font-family: Impact;
+    	padding: 20px;
+    	font-size: 12px;
+    	background-color: #cecece;
+    	/*font-style: italic;*/  
+    	/*zoom:1;*/
+    }
+    input{
+    	width: 70%
+
+    }
+
+    p{
+    	padding-top: 5px;
+    	font-family: Garamond;
+    	font-size: 25px;
+    	color: #7babf7;
+    }
+
+    .alignleft{
+    	float: left;
+    }
